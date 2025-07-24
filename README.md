@@ -11,4 +11,4 @@ This script was used in production to enrich the ACTIVITY_PROPERTIES table in Ch
 
 # How to cite
 
-Improving bioassay annotations in ChEMBL with Artificial Intelligence (in preparation)
+Enhancing bioassay annotations in ChEMBL with Artificial Intelligence, Ines Smit, Melissa F. Adasme, Emma Manners, Sybilla Corbett, Nicolas Bosc, Hoang-My-Anh Do, Andrew R Leach, Noel O’Boyle, Barbara Zdrazil, to be submitted.
